@@ -1,3 +1,5 @@
+#!/usr/env/python
+
 from markdown import markdown
 from sys import argv
 from webbrowser import open as browser_open
